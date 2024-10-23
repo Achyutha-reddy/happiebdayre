@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/happiebdayre/static/css/main.3bb23a54.css",
+    "main.js": "/happiebdayre/static/js/main.010497a8.js",
+    "static/js/453.09b3aeae.chunk.js": "/happiebdayre/static/js/453.09b3aeae.chunk.js",
+    "static/media/nikitha.jpg": "/happiebdayre/static/media/nikitha.d572f4b7f2a28ee2aab8.jpg",
+    "static/media/song.mp3": "/happiebdayre/static/media/song.db3112a1cce77504da4c.mp3",
+    "static/media/hands.jpg": "/happiebdayre/static/media/hands.0ac56786f9d9418c6568.jpg",
+    "index.html": "/happiebdayre/index.html",
+    "main.3bb23a54.css.map": "/happiebdayre/static/css/main.3bb23a54.css.map",
+    "main.010497a8.js.map": "/happiebdayre/static/js/main.010497a8.js.map",
+    "453.09b3aeae.chunk.js.map": "/happiebdayre/static/js/453.09b3aeae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb23a54.css",
+    "static/js/main.010497a8.js"
+  ]
+}
