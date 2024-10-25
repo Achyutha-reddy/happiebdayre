@@ -29,10 +29,10 @@ export default () => (
       </div>
       <div className="cardInside">
       
-        <h3 className="back">HAPPIEST BIRTHDAY TO US..!</h3>
-        <p>PAPA🖤👻,
+        <h3 className="back">HAPPIEST BIRTHDAY TO US🖤👻,..!</h3>
+        <p>
           <br />
-          Happiest bday My Everything..!
+          Happiest bday My Everythingggggggggg...❤️!
           <br></br>
           Nikitha..I think you know how much you means to me re...
           we have made memories, shared jokes, shared happiness, shared sadness and each others back in our journey.
@@ -48,15 +48,22 @@ export default () => (
           <br></br>
           Achyuth always miss you Papa🖤..!
           <br></br>
-          HAPPIEST BIRTHDAY PAPAAAAAAAA...❤️!
-
-
+          nik hindi ardham kaadhu kada re..idhe dani lyrics..
+          This heart has gone mad
+          Now only you can explain it
+              I see my world in you
+                  My world, you are a wanderer
+                                  I am lucky that by fate
+              I have found you like this
+              I have got permission from God to love you..
         </p>
+
         <div><ReactAudioPlayer className='song'
           src={song}
           autoPlay
           controls
-          /></div>
+          />
+          </div>
       </div>
     </div>
   );

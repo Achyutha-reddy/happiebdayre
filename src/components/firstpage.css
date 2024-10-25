@@ -15,13 +15,12 @@ body {
     transform: perspective(2500px);
     transition: 1s;
   }
-  
   .birthdayCard:hover {
     transform: perspective(2500px) rotate(5deg);
     box-shadow: inset 100px 20px 100px #F7C5CC,
-      0 10px 100px red;
+      500px 100px 10000px red;
   }
-  
+
   .birthdayCard:hover .cardFront {
     transform: rotateY(-150deg);
   }
