@@ -30,7 +30,7 @@ export default () => (
       <div className="cardInside">
       
         <h3 className="back">HAPPIEST BIRTHDAY TO US🖤👻,..!</h3>
-        <p>
+        <h4>
           <br />
           Happiest bday My Everythingggggggggg...❤️!
           <br></br>
@@ -56,7 +56,7 @@ export default () => (
                                   I am lucky that by fate
               I have found you like this
               I have got permission from God to love you..
-        </p>
+        </h4>
 
         <div><ReactAudioPlayer className='song'
           src={song}
