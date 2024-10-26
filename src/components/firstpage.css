@@ -199,12 +199,12 @@ body {
     color: rgb(255, 0, 43);
 }
   @keyframes achyuth{
-    0%{content: "NIKITHA❤️!";}
-    25%{content: "DEVIL👻!";}
-    50%{content: "PAPA🖤!";}
-    65%{content: "MYINE😍!";}
-    85%{content: "RE!";}
-    100%{content: "ONE AND ONLY🖤!";}
+    0%{content: "NIKITHA❤️!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    25%{content: "DEVIL👻!" ;font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    50%{content: "PAPA🖤!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    65%{content: "MYINE😍!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    85%{content: "RE!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    100%{content: "ONE AND ONLY🖤!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
 }
 .song{
 
