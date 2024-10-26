@@ -204,7 +204,7 @@ body {
     50%{content: "PAPA🖤!";font-style: normal;color: #1E2761; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
     65%{content: "MYINE😍!";font-style: normal;color: rgb(207, 207, 32); font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
     85%{content: "RE!";font-style: normal;color: #06d6a0; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
-    100%{content: "ONE AND ONLY🖤!";font-style: normal;color: rgb(10, 237, 82); font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
+    100%{content: "ONE AND ONLY🖤!";font-style: normal;color: red; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
 }
 .song{
 
