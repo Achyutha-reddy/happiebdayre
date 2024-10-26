@@ -199,12 +199,12 @@ body {
     color: rgb(255, 0, 43);
 }
   @keyframes achyuth{
-    0%{content: "NIKITHA❤️!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
-    25%{content: "DEVIL👻!" ;font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
-    50%{content: "PAPA🖤!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
-    65%{content: "MYINE😍!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
-    85%{content: "RE!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
-    100%{content: "ONE AND ONLY🖤!";font-style: normal; font-weight: 400; font-family: 'Times New Roman', Times, serif,cursive;}
+    0%{content: "NIKITHA❤️!";color:  #7A2048 ;font-weight: 900;font-style: normal; font-family: 'Times New Roman', Times, serif,cursive;}
+    25%{content: "DEVIL👻!" ;font-style: normal;color: #408EC6; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
+    50%{content: "PAPA🖤!";font-style: normal;color: #1E2761; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
+    65%{content: "MYINE😍!";font-style: normal;color: rgb(207, 207, 32); font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
+    85%{content: "RE!";font-style: normal;color: #06d6a0; font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
+    100%{content: "ONE AND ONLY🖤!";font-style: normal;color: rgb(10, 237, 82); font-weight: 900; font-family: 'Times New Roman', Times, serif,cursive;}
 }
 .song{
 
